@@ -1,15 +1,18 @@
-import requests, re, time, pymysql.cursors
+#!/usr/bin/env python
+import requests, re, time
 from bs4 import BeautifulSoup
+import pymysql.cursors
 
 # Runtime start
 start = time.clock()
 print(start)
 
 # Connect to the database
-connection = pymysql.connect(user='', password='', host='', db='futhead', cursorclass=pymysql.cursors.DictCursor)
+connection = pymysql.connect(user='root', password='abc123', host='127.0.0.1', db='futhead', cursorclass=pymysql.cursors.DictCursor)
 
-# Opening CSV file in write mode
+# Opening CSV file in write mode and writing column titles
 csvfile = open('fifa18.csv', 'w')
+csvfile.write('Name,Club,League,Position,Rating,Pace,Shooting,Passing,Dribbling,Defending,Physical\n')
 
 # Sending request to futhead.com
 session = requests.Session()
@@ -31,6 +34,10 @@ for page in range(1,TotalPages):
         Information = bs.findAll('span', {'class':'player-club-league-name'})
         Ratings = bs.findAll('span', {'class':re.compile('revision-gradient shadowed font-12 fut18')})
 
+        # Calcualting the number of players per page
+        num = len(bs.findAll('li', {'class':'list-group-item list-group-table-row player-group-item dark-hover'}))
+
+        # List Intialization
         playerName = []
         playerClub = []
         playerLeague = []
@@ -61,17 +68,15 @@ for page in range(1,TotalPages):
                     physical.append(score)
 
         # Parsing all players information
-        for i in range(0, 48):
+        for i in range(0, num):
                 playerName.append(str(Names[i]).split('<span class="player-name">')[1].split("</span>")[0])
                 playerRating.append(str(Ratings[i]).split('">')[1].split('</span>')[0])
-                playerPosition.append(str(Information[i]).split("<strong>")[1].split("</strong>")[0]) # Position
+                playerPosition.append(str(Information[i]).split("<strong>")[1].split("</strong>")[0])
                 playerClub.append(str(Information[i]).split("<strong>")[1].split("</strong>")[1].replace("\n", "").split("|")[1].replace("                         ", ""))
                 playerLeague.append(str(Information[i]).split("<strong>")[1].split("</strong>")[1].replace("\n", "").split("|")[2].replace("                         ", "").split("</span>")[0].replace("                    ", ""))
 
         # Writing the parsed values to the DB and a CSV file
-        f = open('fifa18.csv')
-
-        for i in range(0, 48):
+        for i in range(0, num):
                 with connection.cursor() as cursor:
                         # Inserting players stats and information into the DB
                         cursor.execute('INSERT INTO futhead.fifa18 (names, club, league, position, rating, pace, shooting, passing, dribbling, defending, physical, loaddate) VALUES ("' + playerName[i].decode('utf-8').encode('latin-1', 'ignore') + '", "' + playerClub[i] + '", "' + playerLeague[i] + '", "' + playerPosition[i] + '", ' + playerRating[i] + ', ' + pace[i] + ', ' + shooting[i] + ', ' + passing[i] + ', ' + dribbling[i] + ', ' + defending[i] + ', ' + physical[i] + ', NOW());')
