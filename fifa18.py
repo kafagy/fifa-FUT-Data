@@ -14,19 +14,30 @@ if os.path.isfile('/tmp/fifa18.csv'):
 
 # Sending request to futhead.com
 session = requests.Session()
-session.headers.update({
-                           'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36'})
+session.headers.update({'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36'})
 headers = {'Content-Type': 'application/x-www-form-urlencoded'}
 FutHead = session.post("http://www.futhead.com/18/players")
 
 # Parsing the number of pages for fifa 18 players
 bs = BeautifulSoup(FutHead.text, 'html.parser')
-TotalPages = int(str(bs.find('span', {'class': 'font-12 font-bold margin-l-r-10'})).split("of ")[1].replace("\n", "").replace(" ", "").split(
-        "</span>")[0])
+TotalPages = int(str(bs.find('span', {'class': 'font-12 font-bold margin-l-r-10'})).split("of ")[1].replace("\n", "").replace(" ", "").split("</span>")[0])
 print("Number of pages to be parsed: " + str(TotalPages))
 
 with connection.cursor() as cursor:
     # Truncating table before inserting data into the table
+    cursor.execute("CREATE TABLE IF NOT EXISTS fifa18 ( "
+                   "names     CHAR(30) CHARACTER SET latin1 COLLATE latin1_bin, "
+                   "club      VARCHAR(50), "
+                   "league    VARCHAR(50), "
+                   "position  VARCHAR(50), "
+                   "rating    INTEGER(2),  "
+                   "pace      INTEGER(2),  "
+                   "shooting  INTEGER(2),  "
+                   "passing   INTEGER(2),  "
+                   "dribbling INTEGER(2),  "
+                   "defending INTEGER(2),  "
+                   "physical  INTEGER(2),  "
+                   "loaddate  TIMESTAMP);")
     cursor.execute("TRUNCATE TABLE fifa18;")
 
     # Looping through all pages to retrieve players stats and information
@@ -57,8 +68,7 @@ with connection.cursor() as cursor:
         # Parsing all players stats
         for stat in Stats:
             Attr = str(stat).split('<span class="hover-label">')[1].split('</span>')[0]
-            score = str(stat).split('<span class="player-stat stream-col-60 hidden-md hidden-sm"><span class="value">')[
-                1].split('</span>')[0]
+            score = str(stat).split('<span class="player-stat stream-col-60 hidden-md hidden-sm"><span class="value">')[1].split('</span>')[0]
             if Attr == "PAC":
                 pace.append(score)
             elif Attr == "SHO":
@@ -94,7 +104,6 @@ with connection.cursor() as cursor:
 
 # Closing connection to the DB and closing csv file
 connection.close()
-# csvfile.close()
 
 # Runtime end
 print(time.clock() - start)
