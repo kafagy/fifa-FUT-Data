@@ -1,13 +1,13 @@
-# FIFA 18 FUT Players Data
+# FIFA FUT Players Data
 
 ## What is the purpose of this script?
 - The purpose of this repository is to have a script that autoamtically pulls down all players data from Futhead's website
 
 ## How to use it?
-- Just run the fifa18.py script:
+- Just run the fifa.py script:
 
   `
-python fifa18.py
+python fifa.py
   `
 ## Players data ouput format:
 - After running the script the user will have the data saved in a MySQL database and a CSV file
