@@ -33,12 +33,13 @@ fifa = {
 }
 
 with connection.cursor() as cursor:
-    # Truncating table before inserting data into the table
     for key, value in fifa.items():
         print('Doing Fifa ' + key)
-        cursor.execute('TRUNCATE TABLE FUTHEAD.{};'.format(value))
+
+        # Truncating table before inserting data into the table
         cursor.execute('TRUNCATE TABLE FUTHEAD.{};'.format(value))
 
+        # List Intializations
         players = []
         attributes = []
 
@@ -84,6 +85,7 @@ with connection.cursor() as cursor:
                     a.append(stat.find('span', {'class': 'value'}).get_text())
             print('page ' + str(page) + ' is done!')
 
+        # Inserting data into its specific table
         for player, attribute in zip(players, attributes):
             cursor.execute('''
                       INSERT INTO FUTHEAD.{} (

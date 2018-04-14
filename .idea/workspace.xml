@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5c5f313a-90b8-4361-9325-df4acd14d696" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/fifa.py" afterPath="$PROJECT_DIR$/fifa.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,28 +20,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fifa.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fifa.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fifa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+            <state relative-caret-position="50">
+              <caret line="87" column="43" lean-forward="false" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1523721053248" expanded="true" signature="3403:3423" ph="INSERT INTO futhead.fifa18... " />
-                <marker date="1523721053248" expanded="true" signature="3403:3894" ph="INSERT INTO futhead.fifa18... " />
-                <marker date="1523721053248" expanded="true" signature="3403:3923" ph="INSERT INTO futhead.fifa18... " />
-                <marker date="1523721053248" expanded="true" signature="4035:4057" ph="SELECT * FRO... missing_value" />
+                <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
+                <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
+                <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
+                <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="345">
-                <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <first_editor relative-caret-position="270">
+                <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -161,8 +162,8 @@
         <option value="$PROJECT_DIR$/fifa18.csv" />
         <option value="$PROJECT_DIR$/fifa18.py" />
         <option value="$PROJECT_DIR$/fifa.sql" />
-        <option value="$PROJECT_DIR$/fifa.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/fifa.py" />
       </list>
     </option>
   </component>
@@ -442,10 +443,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721053248" expanded="true" signature="3403:3423" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3894" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3923" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="4035:4057" ph="SELECT * FRO... missing_value" />
+            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>
@@ -488,10 +489,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721053248" expanded="true" signature="3403:3423" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3894" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3923" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="4035:4057" ph="SELECT * FRO... missing_value" />
+            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>
@@ -511,10 +512,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721053248" expanded="true" signature="3403:3423" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3894" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3923" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="4035:4057" ph="SELECT * FRO... missing_value" />
+            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>
@@ -534,10 +535,10 @@
           <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721053248" expanded="true" signature="3403:3423" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3894" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3923" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="4035:4057" ph="SELECT * FRO... missing_value" />
+            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>
@@ -557,10 +558,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721053248" expanded="true" signature="3403:3423" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3894" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3923" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="4035:4057" ph="SELECT * FRO... missing_value" />
+            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>
@@ -590,10 +591,10 @@
           <caret line="61" column="53" lean-forward="false" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721053248" expanded="true" signature="3403:3423" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3894" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3923" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="4035:4057" ph="SELECT * FRO... missing_value" />
+            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>
@@ -620,10 +621,10 @@
           <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721053248" expanded="true" signature="3403:3423" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3894" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3923" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="4035:4057" ph="SELECT * FRO... missing_value" />
+            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>
@@ -650,10 +651,10 @@
           <caret line="61" column="53" lean-forward="false" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721053248" expanded="true" signature="3403:3423" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3894" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3923" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="4035:4057" ph="SELECT * FRO... missing_value" />
+            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>
@@ -753,20 +754,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fifa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721053248" expanded="true" signature="3403:3423" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3894" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="3403:3923" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721053248" expanded="true" signature="4035:4057" ph="SELECT * FRO... missing_value" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -775,11 +762,25 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
-            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="87" column="43" lean-forward="false" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
+          </folding>
         </state>
       </provider>
     </entry>
