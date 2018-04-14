@@ -16,4 +16,4 @@
 - requests
 - pandas
 #### Note:
-- Make sure you create table fifa18 using the DDL in fifa.sql to be able to correctly encode latin literals when writing to the Database
+- Make sure you create tables using the DDL in fifa.sql to be able to correctly encode latin literals when writing to the Database
