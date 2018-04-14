@@ -1,7 +1,6 @@
 import re
 import time
 import requests
-import numpy as np
 import pandas as pd
 import pymysql.cursors
 from bs4 import BeautifulSoup
@@ -36,22 +35,9 @@ fifa = {
 with connection.cursor() as cursor:
     # Truncating table before inserting data into the table
     for key, value in fifa.items():
-        cursor.execute('''
-                  CREATE TABLE IF NOT EXISTS %s (
-                       NAME      CHAR(30) CHARACTER SET LATIN1 COLLATE LATIN1_BIN,
-                       CLUB      VARCHAR(50),
-                       LEAGUE    VARCHAR(50),
-                       POSITION  VARCHAR(50),
-                       RATING    INTEGER(2),
-                       PACE      INTEGER(2),
-                       SHOOTING  INTEGER(2),
-                       PASSING   INTEGER(2),
-                       DRIBBLING INTEGER(2),
-                       DEFENDING INTEGER(2),
-                       PHYSICAL  INTEGER(2),
-                       LOADDATE  TIMESTAMP);
-                       ''', (value))
-        cursor.execute('TRUNCATE TABLE FIFA18;')
+        print('Doing Fifa ' + key)
+        cursor.execute('TRUNCATE TABLE FUTHEAD.{};'.format(value))
+        cursor.execute('TRUNCATE TABLE FUTHEAD.{};'.format(value))
 
         players = []
         attributes = []
@@ -63,7 +49,7 @@ with connection.cursor() as cursor:
             Stats = bs.findAll('span', {'class': 'player-stat stream-col-60 hidden-md hidden-sm'})
             Names = bs.findAll('span', {'class': 'player-name'})
             Information = bs.findAll('span', {'class': 'player-club-league-name'})
-            Ratings = bs.findAll('span', {'class': re.compile('revision-gradient shadowed font-12 fut18')})
+            Ratings = bs.findAll('span', {'class': re.compile('revision-gradient shadowed font-12')})
 
             # Calcualting the number of players per page
             num = len(bs.findAll('li', {'class': 'list-group-item list-group-table-row player-group-item dark-hover'}))
@@ -73,8 +59,14 @@ with connection.cursor() as cursor:
                 p = []
                 p.append(Names[i].get_text())
                 strong = Information[i].strong.extract()
-                p.append(re.sub('\s +', '', str(Information[i].get_text())).split('| ')[1])
-                p.append(re.sub('\s +', '', str(Information[i].get_text())).split('| ')[2])
+                try:
+                    p.append(re.sub('\s +', '', str(Information[i].get_text())).split('| ')[1])
+                except IndexError:
+                    p.append((''))
+                try:
+                    p.append(re.sub('\s +', '', str(Information[i].get_text())).split('| ')[2])
+                except IndexError:
+                    p.append((''))
                 p.append(strong.get_text())
                 p.append(Ratings[i].get_text())
                 players.append(p)
@@ -94,7 +86,7 @@ with connection.cursor() as cursor:
 
         for player, attribute in zip(players, attributes):
             cursor.execute('''
-                      INSERT INTO FUTHEAD.FIFA18 (
+                      INSERT INTO FUTHEAD.{} (
                           NAME, 
                           CLUB, 
                           LEAGUE, 
@@ -107,10 +99,10 @@ with connection.cursor() as cursor:
                           DEFENDING, 
                           PHYSICAL
                       ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-                          ''', (*player, *attribute))
+                          '''.format(value), (*player, *attribute))
 
         # Dumping the lines into a csv file
-        pd.read_sql_query('SELECT * FROM FIFA18;', connection).to_csv(value + '.csv', sep=',', encoding='utf-8', index=False)
+        pd.read_sql_query('SELECT * FROM FUTHEAD.{};'.format(value), connection).to_csv(value + '.csv', sep=',', encoding='utf-8', index=False)
 
         # Commit MYSQL statements
         connection.commit()
