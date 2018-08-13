@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c5f313a-90b8-4361-9325-df4acd14d696" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/fifa18-Data.iml" afterPath="$PROJECT_DIR$/.idea/fifa-FUT-Data.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/FIFA10.csv" afterPath="$PROJECT_DIR$/FIFA10.csv" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/fifa.py" afterPath="$PROJECT_DIR$/fifa.py" />
+      <change beforePath="$PROJECT_DIR$/fifa.sql" afterPath="$PROJECT_DIR$/fifa.sql" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,44 +18,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/fifa_FUT_Data$fifa.coverage" NAME="fifa Coverage Results" MODIFIED="1533725406770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fifa18_Data$fifa18.coverage" NAME="fifa18 Coverage Results" MODIFIED="1523718372821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fifa_FUT_Data$fifa18.coverage" NAME="fifa18 Coverage Results" MODIFIED="1533217638678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="fifa18-Data" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fifa.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fifa.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fifa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="87" column="43" lean-forward="false" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
+            <state relative-caret-position="1320">
+              <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
-                <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
-                <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
-                <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
+                <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+                <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+                <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+                <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+                <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="FIFA10.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FIFA10.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="270" column="37" lean-forward="true" selection-start-line="270" selection-start-column="37" selection-end-line="270" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FIFA16.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIFA16.csv">
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -61,68 +67,8 @@
       <file leaf-file-name="fifa.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fifa.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="172" column="0" lean-forward="true" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FIFA15.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIFA15.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FIFA14.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIFA14.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FIFA13.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIFA13.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FIFA10.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIFA10.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FIFA11.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIFA11.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FIFA12.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIFA12.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="126" column="11" lean-forward="false" selection-start-line="126" selection-start-column="11" selection-end-line="126" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -146,6 +92,7 @@
       <find>telleche</find>
       <find>girth</find>
       <find>&quot;</find>
+      <find>\n</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,9 +107,9 @@
         <option value="$PROJECT_DIR$/fifa18.sql" />
         <option value="$PROJECT_DIR$/fifa18.csv" />
         <option value="$PROJECT_DIR$/fifa18.py" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/fifa.sql" />
         <option value="$PROJECT_DIR$/fifa.py" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -173,8 +120,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="842" />
-    <option name="width" value="838" />
+    <option name="width" value="836" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -199,8 +145,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="fifa18-Data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fifa18-Data" type="462c0819:PsiDirectoryNode" />
+              <item name="fifa-FUT-Data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fifa-FUT-Data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,24 +179,100 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="fifa18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="fifa18-Data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fifa18-Data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fifa18-Data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fifa18-Data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="fifa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fifa-FUT-Data" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fifa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="fifa18-Data" />
     </configuration>
     <configuration default="true" type="OdpsPythonConfigurationType" factoryName="MaxCompute Python">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,36 +297,6 @@
       <option name="MAIN_CLASS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fifa18-Data" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fifa18-Data" />
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,6 +307,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="fifa18-Data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -322,7 +315,37 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fifa18-Data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fifa18-Data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -339,9 +362,25 @@
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fifa18-Data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.fifa18" />
+        <item index="0" class="java.lang.String" itemvalue="Python.fifa" />
       </list>
     </recent_temporary>
   </component>
@@ -369,10 +408,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10211267" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36335722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25152627" sideWeight="0.48816568" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.465" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.086904764" sideWeight="0.48816568" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -442,10 +481,113 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
           </folding>
         </state>
       </provider>
@@ -454,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -462,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -470,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -488,10 +627,11 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
           </folding>
         </state>
       </provider>
@@ -511,10 +651,11 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
           </folding>
         </state>
       </provider>
@@ -534,10 +675,11 @@
           <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
           </folding>
         </state>
       </provider>
@@ -557,10 +699,11 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
           </folding>
         </state>
       </provider>
@@ -590,10 +733,11 @@
           <caret line="61" column="53" lean-forward="false" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
           </folding>
         </state>
       </provider>
@@ -620,10 +764,11 @@
           <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
           </folding>
         </state>
       </provider>
@@ -650,10 +795,11 @@
           <caret line="61" column="53" lean-forward="false" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
           </folding>
         </state>
       </provider>
@@ -666,18 +812,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/myvenv/lib/python3.6/site-packages/pymysql/cursors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="322" column="0" lean-forward="false" selection-start-line="322" selection-start-column="0" selection-end-line="322" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/myvenv/lib/python3.6/site-packages/pymysql/cursors.py" />
     <entry file="file://$PROJECT_DIR$/FIFA18.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -685,23 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIFA16.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIFA15.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -709,7 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -717,15 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIFA12.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -733,37 +845,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FIFA16.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FIFA15.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FIFA12.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="126" column="11" lean-forward="false" selection-start-line="126" selection-start-column="11" selection-end-line="126" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FIFA10.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="402">
+          <caret line="270" column="37" lean-forward="true" selection-start-line="270" selection-start-column="37" selection-end-line="270" selection-end-column="37" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fifa.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="172" column="0" lean-forward="true" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fifa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="87" column="43" lean-forward="false" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523721976939" expanded="true" signature="3420:3440" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3911" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="3420:3940" ph="INSERT INTO futhead.fifa18... " />
-            <marker date="1523721976939" expanded="true" signature="4052:4074" ph="SELECT * FRO... missing_value" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,11 +893,34 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fifa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1533648778674" expanded="true" signature="3490:3510" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3905" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="3490:3916" ph="INSERT INTO futhead.fifa18... " />
+            <marker date="1533648778674" expanded="true" signature="4020:4042" ph="SELECT * FRO... missing_value" />
+            <marker date="1533648778674" expanded="true" signature="4020:4044" ph="SELECT * FRO... FUTHEAD." />
+          </folding>
         </state>
       </provider>
     </entry>
