@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/fifa18-Data.iml" filepath="$PROJECT_DIR$/.idea/fifa18-Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fifa-FUT-Data.iml" filepath="$PROJECT_DIR$/.idea/fifa-FUT-Data.iml" />
     </modules>
   </component>
 </project>
