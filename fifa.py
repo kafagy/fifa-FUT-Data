@@ -4,6 +4,7 @@ import requests
 import pandas as pd
 import pymysql.cursors
 from bs4 import BeautifulSoup
+import sys
 
 # Runtime start
 start = time.clock()
@@ -31,6 +32,8 @@ fifa = {
     '18': 'FIFA18'
 }
 
+for key, value in fifa.items():
+	print(key, value)
 for key, value in fifa.items():
     print('Doing FIFA ' + key)
 
