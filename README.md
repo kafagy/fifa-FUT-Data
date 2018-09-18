@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/kafagy/fifa-FUT-Data.svg)](http://hits.dwyl.io/kafagy/fifa-FUT-Data)
 # FIFA FUT Players Data
 ## What is the purpose of this script?
 - The purpose of this repository is to have a script that automatically pulls down all players data from Futhead's website for all FIFA versions starting with FIFA 10.
