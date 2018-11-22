@@ -18,4 +18,4 @@
 - pandas
 #### Note:
 - Input database's host, database name, user and password in the fifa.py connection line.
-- Make sure you create tables using the DDL in fifa.sql to be able to correctly encode latin literals when writing to the Database.
+- Make sure you create tables using the DDL in futhead.sql to be able to correctly encode latin literals when writing to the Database.
