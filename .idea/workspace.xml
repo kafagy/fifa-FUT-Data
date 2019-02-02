@@ -2,29 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c5f313a-90b8-4361-9325-df4acd14d696" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/FutBinCards19.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FutBinDetailed19.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/futbin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/afa1e1fc-37a5-4e85-8df0-97560c73d0b4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/afa1e1fc-37a5-4e85-8df0-97560c73d0b4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fifa-FUT-Data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fifa-FUT-Data.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIFA10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FIFA10.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIFA11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FIFA11.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIFA12.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FIFA12.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIFA13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FIFA13.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIFA14.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FIFA14.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIFA15.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FIFA15.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIFA16.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FIFA16.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIFA17.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FIFA17.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIFA18.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FIFA18.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIFA19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FIFA19.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fifa.py" beforeDir="false" afterPath="$PROJECT_DIR$/futhead.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fifa.sql" beforeDir="false" afterPath="$PROJECT_DIR$/futhead.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FutBin19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FutBinCards19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FutBinCards19.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FutBinDetailed19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FutBinDetailed19.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futbin.py" beforeDir="false" afterPath="$PROJECT_DIR$/futbin.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +18,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/fifa18_Data$fifa18.coverage" NAME="fifa18 Coverage Results" MODIFIED="1523718372821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fifa_FUT_Data$join.coverage" NAME="join Coverage Results" MODIFIED="1542928998954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fifa_FUT_Data$fifa18.coverage" NAME="fifa18 Coverage Results" MODIFIED="1533217638678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fifa_FUT_Data$Detailed.coverage" NAME="Detailed Coverage Results" MODIFIED="1542738698058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fifa_FUT_Data$fifa.coverage" NAME="fifa Coverage Results" MODIFIED="1538513584777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fifa_FUT_Data$futbin.coverage" NAME="futbin Coverage Results" MODIFIED="1542756601113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fifa_FUT_Data$join.coverage" NAME="join Coverage Results" MODIFIED="1542928998954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fifa_FUT_Data$IDs.coverage" NAME="IDs Coverage Results" MODIFIED="1538797971276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fifa_FUT_Data$fifa18.coverage" NAME="fifa18 Coverage Results" MODIFIED="1533217638678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fifa_FUT_Data$fifa.coverage" NAME="fifa Coverage Results" MODIFIED="1538513584777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fifa_FUT_Data$futbin.coverage" NAME="futbin Coverage Results" MODIFIED="1549071062364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fifa18_Data$fifa18.coverage" NAME="fifa18 Coverage Results" MODIFIED="1523718372821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -60,75 +45,16 @@
     </expand>
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1318159730">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="214" />
-          <entry key="csv" value="127" />
-          <entry key="dummy" value="17" />
-          <entry key="py" value="7205" />
-          <entry key="sql" value="317" />
-          <entry key="txt" value="193" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSV" value="127" />
-          <entry key="PLAIN_TEXT" value="210" />
-          <entry key="Python" value="7419" />
-          <entry key="SQL" value="317" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="LICENSE" value="1" />
-          <entry key="csv" value="36" />
-          <entry key="md" value="3" />
-          <entry key="py" value="18" />
-          <entry key="sql" value="10" />
-          <entry key="txt" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSV" value="36" />
-          <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="18" />
-          <entry key="SQL" value="9" />
-          <entry key="Scratch" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="fifa18-Data" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/futbin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" column="104" selection-start-line="64" selection-start-column="104" selection-end-line="64" selection-end-column="104" />
+            <state relative-caret-position="253">
+              <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -136,11 +62,71 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FutBinDetailed19.csv">
           <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="1441">
-              <caret line="325" column="196" selection-start-line="325" selection-start-column="196" selection-end-line="325" selection-end-column="196" />
+            <state relative-caret-position="165">
+              <caret line="11" column="24" lean-forward="true" selection-end-line="26" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="true" rowLines="3">
+              <column index="0" width="100" />
+              <column index="1" width="100" />
+              <column index="2" width="100" />
+              <column index="3" width="100" />
+              <column index="4" width="100" />
+              <column index="5" width="100" />
+              <column index="6" width="100" />
+              <column index="7" width="100" />
+              <column index="8" width="100" />
+              <column index="9" width="100" />
+              <column index="10" width="100" />
+              <column index="11" width="100" />
+              <column index="12" width="100" />
+              <column index="13" width="100" />
+              <column index="14" width="100" />
+              <column index="15" width="100" />
+              <column index="16" width="100" />
+              <column index="17" width="100" />
+              <column index="18" width="100" />
+              <column index="19" width="100" />
+              <column index="20" width="100" />
+              <column index="21" width="100" />
+              <column index="22" width="100" />
+              <column index="23" width="100" />
+              <column index="24" width="100" />
+              <column index="25" width="100" />
+              <column index="26" width="100" />
+              <column index="27" width="100" />
+              <column index="28" width="100" />
+              <column index="29" width="100" />
+              <column index="30" width="100" />
+              <column index="31" width="100" />
+              <column index="32" width="100" />
+              <column index="33" width="100" />
+              <column index="34" width="100" />
+              <column index="35" width="100" />
+              <column index="36" width="100" />
+              <column index="37" width="100" />
+              <column index="38" width="100" />
+              <column index="39" width="100" />
+              <column index="40" width="100" />
+              <column index="41" width="100" />
+              <column index="42" width="100" />
+              <column index="43" width="100" />
+              <column index="44" width="100" />
+              <column index="45" width="100" />
+              <column index="46" width="100" />
+              <column index="47" width="100" />
+              <column index="48" width="100" />
+              <column index="49" width="100" />
+              <column index="50" width="100" />
+              <column index="51" width="100" />
+              <column index="52" width="100" />
+              <column index="53" width="100" />
+              <column index="54" width="100" />
+              <column index="55" width="100" />
             </state>
           </provider>
         </entry>
@@ -148,53 +134,71 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FutBinCards19.csv">
           <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="412">
-              <caret line="341" column="265" selection-start-line="341" selection-start-column="265" selection-end-line="341" selection-end-column="265" />
-              <caret line="343" column="257" selection-start-line="343" selection-start-column="257" selection-end-line="343" selection-end-column="257" />
-              <caret line="344" column="262" selection-start-line="344" selection-start-column="262" selection-end-line="344" selection-end-column="262" />
-              <caret line="444" column="261" selection-start-line="444" selection-start-column="261" selection-end-line="444" selection-end-column="261" />
-              <caret line="445" column="266" selection-start-line="445" selection-start-column="266" selection-end-line="445" selection-end-column="266" />
-              <caret line="446" column="258" selection-start-line="446" selection-start-column="258" selection-end-line="446" selection-end-column="258" />
-              <caret line="455" column="262" selection-start-line="455" selection-start-column="262" selection-end-line="455" selection-end-column="262" />
-              <caret line="456" column="263" selection-start-line="456" selection-start-column="263" selection-end-line="456" selection-end-column="263" />
-              <caret line="554" column="261" selection-start-line="554" selection-start-column="261" selection-end-line="554" selection-end-column="261" />
-              <caret line="558" column="266" selection-start-line="558" selection-start-column="266" selection-end-line="558" selection-end-column="266" />
-              <caret line="559" column="260" selection-start-line="559" selection-start-column="260" selection-end-line="559" selection-end-column="260" />
-              <caret line="649" column="258" selection-start-line="649" selection-start-column="258" selection-end-line="649" selection-end-column="258" />
-              <caret line="650" column="257" selection-start-line="650" selection-start-column="257" selection-end-line="650" selection-end-column="257" />
-              <caret line="658" column="256" selection-start-line="658" selection-start-column="256" selection-end-line="658" selection-end-column="256" />
-              <caret line="659" column="260" selection-start-line="659" selection-start-column="260" selection-end-line="659" selection-end-column="260" />
-              <caret line="673" column="266" selection-start-line="673" selection-start-column="266" selection-end-line="673" selection-end-column="266" />
-              <caret line="806" column="265" selection-start-line="806" selection-start-column="265" selection-end-line="806" selection-end-column="265" />
-              <caret line="978" column="264" selection-start-line="978" selection-start-column="264" selection-end-line="978" selection-end-column="264" />
-              <caret line="979" column="263" selection-start-line="979" selection-start-column="263" selection-end-line="979" selection-end-column="263" />
-              <caret line="992" column="264" selection-start-line="992" selection-start-column="264" selection-end-line="992" selection-end-column="264" />
+            <state relative-caret-position="375">
+              <caret column="5" selection-end-column="5" />
+              <caret line="1" column="5" selection-start-line="1" selection-end-line="1" selection-end-column="5" />
+              <caret line="2" column="5" selection-start-line="2" selection-end-line="2" selection-end-column="5" />
+              <caret line="3" column="5" selection-start-line="3" selection-end-line="3" selection-end-column="5" />
+              <caret line="4" column="5" selection-start-line="4" selection-end-line="4" selection-end-column="5" />
+              <caret line="5" column="5" selection-start-line="5" selection-end-line="5" selection-end-column="5" />
+              <caret line="6" column="5" selection-start-line="6" selection-end-line="6" selection-end-column="5" />
+              <caret line="7" column="5" selection-start-line="7" selection-end-line="7" selection-end-column="5" />
+              <caret line="8" column="5" selection-start-line="8" selection-end-line="8" selection-end-column="5" />
+              <caret line="9" column="5" selection-start-line="9" selection-end-line="9" selection-end-column="5" />
+              <caret line="10" column="5" selection-start-line="10" selection-end-line="10" selection-end-column="5" />
+              <caret line="11" column="5" selection-start-line="11" selection-end-line="11" selection-end-column="5" />
+              <caret line="12" column="5" selection-start-line="12" selection-end-line="12" selection-end-column="5" />
+              <caret line="13" column="5" selection-start-line="13" selection-end-line="13" selection-end-column="5" />
+              <caret line="14" column="5" selection-start-line="14" selection-end-line="14" selection-end-column="5" />
+              <caret line="15" column="5" selection-start-line="15" selection-end-line="15" selection-end-column="5" />
+              <caret line="16" column="5" selection-start-line="16" selection-end-line="16" selection-end-column="5" />
+              <caret line="17" column="5" selection-start-line="17" selection-end-line="17" selection-end-column="5" />
+              <caret line="18" column="5" selection-start-line="18" selection-end-line="18" selection-end-column="5" />
+              <caret line="19" column="5" selection-start-line="19" selection-end-line="19" selection-end-column="5" />
+              <caret line="20" column="5" selection-start-line="20" selection-end-line="20" selection-end-column="5" />
+              <caret line="21" column="5" selection-start-line="21" selection-end-line="21" selection-end-column="5" />
+              <caret line="22" column="5" selection-start-line="22" selection-end-line="22" selection-end-column="5" />
+              <caret line="23" column="5" selection-start-line="23" selection-end-line="23" selection-end-column="5" />
+              <caret line="24" column="5" selection-start-line="24" selection-end-line="24" selection-end-column="5" />
+              <caret line="25" column="5" selection-start-line="25" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FutBin19.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+              <column index="0" width="100" />
+              <column index="1" width="100" />
+              <column index="2" width="100" />
+              <column index="3" width="100" />
+              <column index="4" width="100" />
+              <column index="5" width="100" />
+              <column index="6" width="100" />
+              <column index="7" width="100" />
+              <column index="8" width="100" />
+              <column index="9" width="100" />
+              <column index="10" width="100" />
+              <column index="11" width="100" />
+              <column index="12" width="100" />
+              <column index="13" width="100" />
+              <column index="14" width="100" />
+              <column index="15" width="100" />
+              <column index="16" width="100" />
+              <column index="17" width="100" />
+              <column index="18" width="100" />
+              <column index="19" width="100" />
+              <column index="20" width="100" />
+              <column index="21" width="100" />
+              <column index="22" width="100" />
+              <column index="23" width="100" />
+              <column index="24" width="100" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/futhead.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
-              <caret line="193" selection-end-line="193" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/futhead.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-2260">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -210,36 +214,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>[</find>
-      <find>237067</find>
-      <find>\n+</find>
-      <find>)</find>
-      <find>url</find>
-      <find>WEAKFOOT</find>
-      <find>^\s+\w+\s+</find>
-      <find>page-link  waves-effect waves-effect</find>
-      <find>page-link</find>
-      <find>player_tr_\d+</find>
-      <find>/19/player/</find>
-      <find>/19/player/\d+/.*&quot;</find>
-      <find>col-md-4 col-</find>
-      <find>data-</find>
-      <find>/19/</find>
-      <find>8            86  2018-09-19  50 years old         81      69     Med      65           69                Icons        95       69    31    High        96    NaN        69           69        39  Right                    Paolo Maldini      NaN               96   186cm | 6'1&quot;            96       NaN      83     NaN              Icons           76         57      96             Italy    N\A   86      75        73          83          56               65      NaN     Icon       56            76         39      2             93           85      84              93       84     75      57         4     83</find>
-      <find>Player-card</find>
-      <find>player_nation</find>
-      <find>van</find>
-      <find />
-      <find>messi</find>
-      <find>\s+</find>
-      <find>]</find>
-      <find>,\s+</find>
-      <find>'</find>
-      <find />
-      <find>-SBC</find>
+      <find>stat_val</find>
+      <find>1.6</find>
+      <find>1.6M</find>
+      <find>Marcelo</find>
+      <find>david sil</find>
+      <find>93</find>
+      <find>otw</find>
+      <find>Frenkie</find>
+      <find>Future-Stars</find>
+      <find>Future Stars</find>
+      <find>Casemiro</find>
+      <find>SBC</find>
+      <find>OTW</find>
+      <find>93 CAM</find>
+      <find>images</find>
+      <find>^(?![a-z][a-z][a-z]?\s\w+).*</find>
+      <find>(?![a-z][a-z][a-z]?\s\w+).*</find>
+      <find>[=[a-z][a-z][a-z]?\s\w+]*</find>
+      <find>[a-z][a-z][a-z]?\s\w+</find>
+      <find>0</find>
+      <find>([M]\s+\d)(?!$)</find>
+      <find>\w+\|\d\\\'\d+\&quot;</find>
+      <find>futmas</find>
+      <find>exte</find>
+      <find>\w+\|\d\'\d+\&quot;</find>
+      <find>,0</find>
+      <find>\s\D*\s\D+</find>
+      <find>names</find>
       <find>,</find>
-      <find>,,</find>
-      <find>v=9,</find>
+      <find>data-original-title</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -269,23 +273,18 @@
         <option value="$PROJECT_DIR$/Detailed.csv" />
         <option value="$PROJECT_DIR$/futhead.py" />
         <option value="$PROJECT_DIR$/futhead.sql" />
-        <option value="$PROJECT_DIR$/FutBinDetailed19.csv" />
         <option value="$PROJECT_DIR$/join.py" />
         <option value="$PROJECT_DIR$/FutBin19.csv" />
-        <option value="$PROJECT_DIR$/FutBinCards19.csv" />
+        <option value="$PROJECT_DIR$/a" />
         <option value="$PROJECT_DIR$/futbin.py" />
+        <option value="$PROJECT_DIR$/FutBinCards19.csv" />
+        <option value="$PROJECT_DIR$/FutBinDetailed19.csv" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="568" />
-    <option name="width" value="1112" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="846" />
+    <option name="width" value="834" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -337,7 +336,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.join">
+  <component name="RunManager" selected="Python.futbin">
     <configuration default="true" type="OdpsPythonConfigurationType" factoryName="MaxCompute Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,7 +360,7 @@
       <option name="MAIN_CLASS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+    <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="fifa18-Data" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -641,8 +640,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.join" />
         <item itemvalue="Python.futbin" />
+        <item itemvalue="Python.join" />
         <item itemvalue="Python.Detailed" />
         <item itemvalue="Python.IDs" />
         <item itemvalue="Python.fifa" />
@@ -659,13 +658,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506142051301</updated>
+      <workItem from="1548184621575" duration="1858000" />
+      <workItem from="1548359468832" duration="37000" />
+      <workItem from="1548736872118" duration="8124000" />
+      <workItem from="1548784256940" duration="3385000" />
+      <workItem from="1548788202970" duration="2623000" />
+      <workItem from="1548791587884" duration="16000" />
+      <workItem from="1548955890954" duration="26040000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42083000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48816568" visible="true" weight="0.14041515" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48816568" visible="true" weight="0.18070818" />
       <window_info id="MaxCompute Project Explorer" order="1" />
       <window_info id="Favorites" order="2" sideWeight="0.5118343" side_tool="true" weight="0.24236874" />
       <window_info id="DB Browser" order="3" />
@@ -673,7 +683,7 @@
       <window_info id="Structure" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.49591836" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981685" visible="true" weight="0.477551" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -683,7 +693,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32959184" />
       <window_info anchor="bottom" id="MaxCompute Job" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.4642857" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50061053" side_tool="true" weight="0.34183672" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50183153" side_tool="true" weight="0.3632653" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.31428573" />
       <window_info anchor="bottom" id="Docker" order="14" weight="0.32" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.32959184" />
@@ -700,21 +710,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.virtualenvs/myvenv/lib/python3.6/site-packages/pymysql/cursors.py" />
     <entry file="file://$PROJECT_DIR$/FIFA14.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/FIFA11.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/FIFA16.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIFA12.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/afa1e1fc-37a5-4e85-8df0-97560c73d0b4/console.sql">
@@ -740,38 +741,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FIFA10.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="270" column="37" selection-start-line="270" selection-start-column="37" selection-end-line="270" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/columns.txt" />
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/URLs.csv">
-      <provider editor-type-id="csv-text-editor" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/URLs.csv" />
     <entry file="file://$PROJECT_DIR$/FIFA17.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIFA18.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="85" lean-forward="true" selection-start-line="20" selection-start-column="85" selection-end-line="20" selection-end-column="85" />
         </state>
       </provider>
     </entry>
@@ -782,13 +761,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fifaDetailed.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fifaDetailed.sql" />
     <entry file="file:///usr/local/lib/python3.6/site-packages/bs4/element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
@@ -796,40 +769,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fifaDetailed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Detailed.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IDs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FutBin.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fifaDetailed.py" />
+    <entry file="file://$PROJECT_DIR$/Detailed.csv" />
+    <entry file="file://$PROJECT_DIR$/IDs.py" />
+    <entry file="file://$PROJECT_DIR$/FutBin.csv" />
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="300">
@@ -838,82 +782,230 @@
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/join.py" />
+    <entry file="file://$PROJECT_DIR$/FIFA12.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FIFA11.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FIFA10.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="270" column="37" selection-start-line="270" selection-start-column="37" selection-end-line="270" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FutBin19.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-251057">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FIFA19.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/futhead.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="193" selection-end-line="193" />
+    <entry file="file://$PROJECT_DIR$/FIFA18.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="85" lean-forward="true" selection-start-line="20" selection-start-column="85" selection-end-line="20" selection-end-column="85" />
         </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/futhead.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+        <state relative-caret-position="678">
+          <caret line="109" column="29" selection-start-line="109" selection-start-column="29" selection-end-line="109" selection-end-column="29" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FutBinDetailed19.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="1441">
-          <caret line="325" column="196" selection-start-line="325" selection-start-column="196" selection-end-line="325" selection-end-column="196" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FutBin19.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FutBinCards19.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="412">
-          <caret line="341" column="265" selection-start-line="341" selection-start-column="265" selection-end-line="341" selection-end-column="265" />
-          <caret line="343" column="257" selection-start-line="343" selection-start-column="257" selection-end-line="343" selection-end-column="257" />
-          <caret line="344" column="262" selection-start-line="344" selection-start-column="262" selection-end-line="344" selection-end-column="262" />
-          <caret line="444" column="261" selection-start-line="444" selection-start-column="261" selection-end-line="444" selection-end-column="261" />
-          <caret line="445" column="266" selection-start-line="445" selection-start-column="266" selection-end-line="445" selection-end-column="266" />
-          <caret line="446" column="258" selection-start-line="446" selection-start-column="258" selection-end-line="446" selection-end-column="258" />
-          <caret line="455" column="262" selection-start-line="455" selection-start-column="262" selection-end-line="455" selection-end-column="262" />
-          <caret line="456" column="263" selection-start-line="456" selection-start-column="263" selection-end-line="456" selection-end-column="263" />
-          <caret line="554" column="261" selection-start-line="554" selection-start-column="261" selection-end-line="554" selection-end-column="261" />
-          <caret line="558" column="266" selection-start-line="558" selection-start-column="266" selection-end-line="558" selection-end-column="266" />
-          <caret line="559" column="260" selection-start-line="559" selection-start-column="260" selection-end-line="559" selection-end-column="260" />
-          <caret line="649" column="258" selection-start-line="649" selection-start-column="258" selection-end-line="649" selection-end-column="258" />
-          <caret line="650" column="257" selection-start-line="650" selection-start-column="257" selection-end-line="650" selection-end-column="257" />
-          <caret line="658" column="256" selection-start-line="658" selection-start-column="256" selection-end-line="658" selection-end-column="256" />
-          <caret line="659" column="260" selection-start-line="659" selection-start-column="260" selection-end-line="659" selection-end-column="260" />
-          <caret line="673" column="266" selection-start-line="673" selection-start-column="266" selection-end-line="673" selection-end-column="266" />
-          <caret line="806" column="265" selection-start-line="806" selection-start-column="265" selection-end-line="806" selection-end-column="265" />
-          <caret line="978" column="264" selection-start-line="978" selection-start-column="264" selection-end-line="978" selection-end-column="264" />
-          <caret line="979" column="263" selection-start-line="979" selection-start-column="263" selection-end-line="979" selection-end-column="263" />
-          <caret line="992" column="264" selection-start-line="992" selection-start-column="264" selection-end-line="992" selection-end-column="264" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/join.py">
+    <entry file="file://$PROJECT_DIR$/futhead.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="88" selection-start-line="7" selection-end-line="11" selection-end-column="88" />
+        <state relative-caret-position="-2260">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/futbin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="104" selection-start-line="64" selection-start-column="104" selection-end-line="64" selection-end-column="104" />
+        <state relative-caret-position="253">
+          <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FutBinCards19.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="375">
+          <caret column="5" selection-end-column="5" />
+          <caret line="1" column="5" selection-start-line="1" selection-end-line="1" selection-end-column="5" />
+          <caret line="2" column="5" selection-start-line="2" selection-end-line="2" selection-end-column="5" />
+          <caret line="3" column="5" selection-start-line="3" selection-end-line="3" selection-end-column="5" />
+          <caret line="4" column="5" selection-start-line="4" selection-end-line="4" selection-end-column="5" />
+          <caret line="5" column="5" selection-start-line="5" selection-end-line="5" selection-end-column="5" />
+          <caret line="6" column="5" selection-start-line="6" selection-end-line="6" selection-end-column="5" />
+          <caret line="7" column="5" selection-start-line="7" selection-end-line="7" selection-end-column="5" />
+          <caret line="8" column="5" selection-start-line="8" selection-end-line="8" selection-end-column="5" />
+          <caret line="9" column="5" selection-start-line="9" selection-end-line="9" selection-end-column="5" />
+          <caret line="10" column="5" selection-start-line="10" selection-end-line="10" selection-end-column="5" />
+          <caret line="11" column="5" selection-start-line="11" selection-end-line="11" selection-end-column="5" />
+          <caret line="12" column="5" selection-start-line="12" selection-end-line="12" selection-end-column="5" />
+          <caret line="13" column="5" selection-start-line="13" selection-end-line="13" selection-end-column="5" />
+          <caret line="14" column="5" selection-start-line="14" selection-end-line="14" selection-end-column="5" />
+          <caret line="15" column="5" selection-start-line="15" selection-end-line="15" selection-end-column="5" />
+          <caret line="16" column="5" selection-start-line="16" selection-end-line="16" selection-end-column="5" />
+          <caret line="17" column="5" selection-start-line="17" selection-end-line="17" selection-end-column="5" />
+          <caret line="18" column="5" selection-start-line="18" selection-end-line="18" selection-end-column="5" />
+          <caret line="19" column="5" selection-start-line="19" selection-end-line="19" selection-end-column="5" />
+          <caret line="20" column="5" selection-start-line="20" selection-end-line="20" selection-end-column="5" />
+          <caret line="21" column="5" selection-start-line="21" selection-end-line="21" selection-end-column="5" />
+          <caret line="22" column="5" selection-start-line="22" selection-end-line="22" selection-end-column="5" />
+          <caret line="23" column="5" selection-start-line="23" selection-end-line="23" selection-end-column="5" />
+          <caret line="24" column="5" selection-start-line="24" selection-end-line="24" selection-end-column="5" />
+          <caret line="25" column="5" selection-start-line="25" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+          <column index="5" width="100" />
+          <column index="6" width="100" />
+          <column index="7" width="100" />
+          <column index="8" width="100" />
+          <column index="9" width="100" />
+          <column index="10" width="100" />
+          <column index="11" width="100" />
+          <column index="12" width="100" />
+          <column index="13" width="100" />
+          <column index="14" width="100" />
+          <column index="15" width="100" />
+          <column index="16" width="100" />
+          <column index="17" width="100" />
+          <column index="18" width="100" />
+          <column index="19" width="100" />
+          <column index="20" width="100" />
+          <column index="21" width="100" />
+          <column index="22" width="100" />
+          <column index="23" width="100" />
+          <column index="24" width="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FutBinDetailed19.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" lean-forward="true" selection-end-line="26" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="true" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+          <column index="5" width="100" />
+          <column index="6" width="100" />
+          <column index="7" width="100" />
+          <column index="8" width="100" />
+          <column index="9" width="100" />
+          <column index="10" width="100" />
+          <column index="11" width="100" />
+          <column index="12" width="100" />
+          <column index="13" width="100" />
+          <column index="14" width="100" />
+          <column index="15" width="100" />
+          <column index="16" width="100" />
+          <column index="17" width="100" />
+          <column index="18" width="100" />
+          <column index="19" width="100" />
+          <column index="20" width="100" />
+          <column index="21" width="100" />
+          <column index="22" width="100" />
+          <column index="23" width="100" />
+          <column index="24" width="100" />
+          <column index="25" width="100" />
+          <column index="26" width="100" />
+          <column index="27" width="100" />
+          <column index="28" width="100" />
+          <column index="29" width="100" />
+          <column index="30" width="100" />
+          <column index="31" width="100" />
+          <column index="32" width="100" />
+          <column index="33" width="100" />
+          <column index="34" width="100" />
+          <column index="35" width="100" />
+          <column index="36" width="100" />
+          <column index="37" width="100" />
+          <column index="38" width="100" />
+          <column index="39" width="100" />
+          <column index="40" width="100" />
+          <column index="41" width="100" />
+          <column index="42" width="100" />
+          <column index="43" width="100" />
+          <column index="44" width="100" />
+          <column index="45" width="100" />
+          <column index="46" width="100" />
+          <column index="47" width="100" />
+          <column index="48" width="100" />
+          <column index="49" width="100" />
+          <column index="50" width="100" />
+          <column index="51" width="100" />
+          <column index="52" width="100" />
+          <column index="53" width="100" />
+          <column index="54" width="100" />
+          <column index="55" width="100" />
         </state>
       </provider>
     </entry>
