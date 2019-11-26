@@ -20,16 +20,17 @@ tiers = [
 ]
 
 fifa = {
-    '10': 'FIFA10',
-    '11': 'FIFA11',
-    '12': 'FIFA12',
-    '13': 'FIFA13',
-    '14': 'FIFA14',
-    '15': 'FIFA15',
-    '16': 'FIFA16',
-    '17': 'FIFA17',
-    '18': 'FIFA18',
-    '19': 'FIFA19'
+    #'10': 'FIFA10',
+    #'11': 'FIFA11',
+    #'12': 'FIFA12',
+    #'13': 'FIFA13',
+    #'14': 'FIFA14',
+    #'15': 'FIFA15',
+    #'16': 'FIFA16',
+    #'17': 'FIFA17',
+    #'18': 'FIFA18',
+    #'19': 'FIFA19',
+    '20': 'FIFA20'
 }
 
 for key, value in fifa.items():
